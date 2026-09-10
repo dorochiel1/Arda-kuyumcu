@@ -1,0 +1,1 @@
+{"name":"riftborn-v36-real","version":"3.6.0","private":true,"type":"module","scripts":{"start":"node bootstrap.mjs"},"dependencies":{"ws":"^8.18.3"}}
